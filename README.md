@@ -95,8 +95,9 @@ insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','
 All are in commit mode
 yes comits are working fine
 great
-commit;
 11/04/2025 commmits added
+commit;
+
 
 ```
 
